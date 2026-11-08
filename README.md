@@ -1,0 +1,25 @@
+# ZARMS for AI agents
+
+Agent Skills for [ZARMS](https://zarms.cloud), usable from Claude Code, Cursor, Codex and other agents.
+
+## Install
+
+```bash
+npx skills add xgeneinc/zarmscloud
+```
+
+Install one skill for one agent:
+
+```bash
+npx skills add xgeneinc/zarmscloud --skill zarms -a claude-code
+```
+
+## Skills
+
+| Skill                          | What it does                                                                                  |
+| ------------------------------ | --------------------------------------------------------------------------------------------- |
+| [zarms](skills/zarms/SKILL.md) | Look up and update boards, cards, steps and comments through the ZARMS MCP server or REST API |
+
+You need a ZARMS team on the trial, Starter or a higher plan, and an MCP connection. See https://help.zarms.cloud/en/mcp/overview.
+
+[![skills.sh](https://skills.sh/b/xgeneinc/zarmscloud)](https://skills.sh/xgeneinc/zarmscloud)
