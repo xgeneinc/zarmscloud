@@ -1,0 +1,17 @@
+name: スキルの問題・提案 / Skill problem or suggestion
+description: スキルの指示が間違っている、わかりにくい、または提案がある / A skill is wrong, unclear, or you have an idea
+body:
+  - type: input
+    id: agent
+    attributes:
+      label: 使っているエージェント / Agent
+      placeholder: Claude Code, Cursor, Codex ...
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: 頼んだこと・起きたこと・期待していたこと / What you asked, what happened, what you expected
+      description: API キーやカードの機密内容は貼らないでください。 / Do not paste keys or confidential card content.
+    validations:
+      required: true
