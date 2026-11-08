@@ -9,7 +9,7 @@ Thanks for helping improve the ZARMS agent skills. This repository holds only th
 | You want to...                                                         | Go to                                                                                                                |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Report a wrong or confusing instruction in a skill, or suggest a skill | [Open an issue](../../issues/new/choose)                                                                             |
-| Fix a typo, an outdated tool name, or a unclear sentence               | [Open a pull request](../../pulls)                                                                                   |
+| Fix a typo, an outdated tool name, or an unclear sentence               | [Open a pull request](../../pulls)                                                                                   |
 | Get help with ZARMS itself (accounts, billing, bugs in the app)        | [Help center](https://help.zarms.cloud/en) or support@zarms.cloud. Issues here are not monitored for product support |
 | Report a security problem                                              | Email contact@zarms.cloud. Please do not open a public issue                                                         |
 
