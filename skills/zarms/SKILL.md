@@ -1,5 +1,6 @@
 ---
 name: zarms
+license: MIT
 description: Operate a ZARMS team (boards, cards, steps, comments, members) through the ZARMS MCP server or REST API. Use when the user asks to look up, create, update, move, comment on, or tidy up ZARMS cards or boards, or asks "what is on my plate / what is overdue / who has the ball" in ZARMS. ZARMS（ザームス）のカード・ボード・ステップ・コメントを MCP / API で操作するときに使う。
 ---
 

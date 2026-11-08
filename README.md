@@ -23,3 +23,7 @@ npx skills add xgeneinc/zarmscloud --skill zarms -a claude-code
 You need a ZARMS team on the trial, Starter or a higher plan, and an MCP connection. See https://help.zarms.cloud/en/mcp/overview.
 
 [![skills.sh](https://skills.sh/b/xgeneinc/zarmscloud)](https://skills.sh/xgeneinc/zarmscloud)
+
+## License
+
+[MIT](LICENSE)
